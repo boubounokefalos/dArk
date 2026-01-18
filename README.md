@@ -25,6 +25,7 @@ Credits:
 * To the whole [PSP Homebrew Community](https://discord.com/channels/479828644970364928/876610910289027072) on Discord.
 * To Acid_Snake for making the best custom FW for PSP.
 * Special thanks to _Mr_Lime_ for his valuable advice and the RCO dumps.
+* Google for using its base iconography.
 
 **Disclaimer:**
 --------------
