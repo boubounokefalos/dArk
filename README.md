@@ -11,10 +11,12 @@ I include both a .ctf and an .ARK theme in order to have a unified appearance ei
 Screenshots:
 --------------
 **XMB:**
+
 ![HOME](https://raw.githubusercontent.com/boubounokefalos/dArk/refs/heads/main/pix/1.png)
 ![HOME](https://raw.githubusercontent.com/boubounokefalos/dArk/refs/heads/main/pix/2.png)
 
 **ARK:**
+
 ![HOME](https://raw.githubusercontent.com/boubounokefalos/dArk/refs/heads/main/pix/3.png)
 ![HOME](https://raw.githubusercontent.com/boubounokefalos/dArk/refs/heads/main/pix/4.png)
 
